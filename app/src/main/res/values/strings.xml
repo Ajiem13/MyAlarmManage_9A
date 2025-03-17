@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyAlarmManage_9A</string>
+    <string name="one_time_alarm">One Time Alarm</string>
+    <string name="alarm_date">Tanggal Alarm</string>
+    <string name="set_one_time_alarm">Set one time alarm</string>
+    <string name="alarm_message">Pesan Alarm</string>
+    <string name="repeating_Alarm">Repeating Alarm</string>
+    <string name="set_repeating_alarm">Set Repeating Alarm</string>
+    <string name="cancel_alarm">Batalkan Alarm</string>
+    <string name="alarm_title">Waktu Alarm</string>
+</resources>
