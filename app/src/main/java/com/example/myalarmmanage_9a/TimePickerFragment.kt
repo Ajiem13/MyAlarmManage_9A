@@ -7,7 +7,6 @@ import android.os.Bundle
 import android.widget.TimePicker
 import androidx.fragment.app.DialogFragment
 import java.util.Calendar
-import kotlin.math.min
 
 class TimePickerFragment : DialogFragment(), TimePickerDialog.OnTimeSetListener {
 
